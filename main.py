@@ -1,5 +1,6 @@
 encoded_password = ""
 def encode(password):
+    # Isabella Osorio
     global encoded_password
     encoded_password = ''
     for digit in password:
